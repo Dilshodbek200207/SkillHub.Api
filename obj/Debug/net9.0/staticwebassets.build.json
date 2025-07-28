@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pv6k/80wwQQJx8pjwVL8IUSHJjbwfotT/IUpm4y1vpw=",
+  "Source": "SkillHub.API",
+  "BasePath": "_content/SkillHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
